@@ -1,0 +1,11 @@
+{
+  "name": "node-get-functions",
+  "version": "1.0.0",
+  "description": "Node program that calls a public API using callbacks, promises, and async/await",
+  "main": "api.js",
+  "scripts": {
+    "start": "node api.js"
+  },
+  "author": "Your Name",
+  "license": "ISC"
+}
